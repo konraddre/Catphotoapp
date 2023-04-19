@@ -5,7 +5,6 @@ Simple HTML project from Freecodecamp
 <html lang="en">
   <head>
     
-    <title>CatPhotoApp</title>
   </head>
   <body>
     <main>
